@@ -74,16 +74,16 @@ An interactive **Power BI dashboard** was created to visualize fraud patterns an
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard](I1.png)
+![Dashboard](Analysis Results/I1.png)
 
 ### Fraud by Location
-![Fraud by Location](I2.png)
+![Fraud by Location](Analysis Results/I1.png)
 
 ### Fraud by Merchant
-![Fraud by Merchant](I3.png)
+![Fraud by Merchant](Analysis Results/I1.png)
 
 ### Transaction Trend
-![Transaction Trend](I4.png)
+![Transaction Trend](Analysis Results/I1.png)
 
 ---
 
