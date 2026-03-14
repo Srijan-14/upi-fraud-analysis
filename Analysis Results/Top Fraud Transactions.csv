@@ -1,0 +1,11 @@
+transaction_id,user_id,amount,location,merchant,transaction_time
+T3704,U1879,49859,Delhi,Flipkart,"15-08-24 5:32"
+T6308,U150,49854,Bangalore,Amazon,"31-08-24 11:24"
+T5451,U685,49820,Chennai,Amazon,"03-12-24 19:58"
+T1461,U806,49807,Hyderabad,Amazon,"04-06-24 14:03"
+T7596,U512,49802,Delhi,Flipkart,"17-05-24 16:45"
+T14342,U1267,49799,Delhi,Swiggy,"28-11-24 19:32"
+T12703,U1846,49716,Delhi,Zomato,"28-06-24 14:22"
+T11865,U267,49621,Bangalore,Swiggy,"10-09-24 8:55"
+T3880,U1818,49507,Chennai,Zomato,"31-03-24 21:08"
+T10911,U1894,49418,Hyderabad,Zomato,"13-08-24 12:06"
